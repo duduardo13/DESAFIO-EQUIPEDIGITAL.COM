@@ -18,21 +18,24 @@ Primeiramente iremos baixar o servidor que irá permitir que o site funcione, pa
 OBS: A instalação do XAMPP se estende até os 5:30min de vídeo, após finalizar a instalação seguir com os próximos passos descritos abaixo.
 
 
-Após instalar o XAMPP, iremos baixar os arquivos do site nesse link:  https://drive.google.com/file/d/1CZeMhDkZyvcDVowHp_jZDUxO_Lnh4wHo/view?usp=drive_link
+Após instalar o XAMPP, iremos baixar os arquivos do site nesse link (baixe o arquivo 2030today.zip e 127_0_0_1.sql):  https://drive.google.com/file/d/1CZeMhDkZyvcDVowHp_jZDUxO_Lnh4wHo/view?usp=drive_link
 
 Após descarregar o arquivo, você irá precisar descompactá-lo em uma pasta chamada "htdocs" e para localiza-lá, deverá procurar pelo diretório no qual instalou a aplicação XAMPP e buscar pela pasta "xampp" e em seguida buscar pela "htdocs".
+
+Abra o XAMPP e clique botão "Start" nas opções APACHE e MYSQL, depois em seu navegador de preferência digite na url "localhost/phpmyadmin" e siga os seguintes passos:
+
+- Procure pela opção "novo" no menu lateral esquerdo
+- No campo escrito "Nome do banco de dados" escreva "2030todaywp" e clique em Criar
+- Selecione no menu lateral o banco de dados que criou e no menu superior busque pela opção "Importar" e selecione
+- Busque pela opção de selecionar ficheiro, selecione o arquivo 127_0_0_1.sql disponibilizado e clique em importar.
 
 
 ## Executando o projeto.
 
-Para acessar o site, primeiramente você deverá executar o XAMPP e clicar no botão "Start" nas opções APACHE e MYSQL.
-
-
-Se tudo ocorreu bem ao abrir o navegador de sua preferência, digite na url:
-
+Se tudo ocorreu bem, abra o navegador de sua preferência e digite na url:
 
 - Para visualizar o projeto: localhost/2030today
 
 - Para acessar o painel que permite realizar modificaçãoes do projeto (Usuário: eduardo, Senha: 123456): localhost/2030today/wp-admin/
 
-- Para acessar o banco de dados: localhost/phpmyadmin
+
