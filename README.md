@@ -20,3 +20,11 @@ Após instalar o XAMPP, iremos baixar os arquivos do site nesse link:  https://d
 Após descarregar o arquivo, você deverá localizar a pasta "xampp", em seguida localizar pasta "htdocs" e dentro dela decompacte o arquivo 2030today.zip
 
 
+Para acessar o site, primeiramente você deverá executar o XAMPP e clicar no botão "Start" nas opções APACHE e MYSQL.
+
+
+Se tudo ocorreu bem ao abrir o navegador de sua preferência, digite na url:
+
+Para visualizar o projeto: localhost/2030today
+Para acessar o painel que permite realizar modificaçãoes do projeto (Usuário: eduardo, Senha: 123456): localhost/2030today/wp-admin/
+Para acessar o banco de dados: localhost/phpmyadmin
