@@ -18,7 +18,7 @@ Primeiramente iremos baixar o servidor que irá permitir que o site funcione, pa
 OBS: A instalação do XAMPP se estende até os 5:30min de vídeo, após finalizar a instalação seguir com os próximos passos descritos abaixo.
 
 
-Após instalar o XAMPP, iremos baixar os arquivos do site nesse link (baixe o arquivo 2030today.zip e 127_0_0_1.sql):  https://drive.google.com/file/d/1CZeMhDkZyvcDVowHp_jZDUxO_Lnh4wHo/view?usp=drive_link
+Após instalar o XAMPP, iremos baixar os arquivos do site nesse link (baixe os arquivos 2030today.zip e 127_0_0_1.sql):  https://drive.google.com/file/d/1CZeMhDkZyvcDVowHp_jZDUxO_Lnh4wHo/view?usp=drive_link
 
 Após descarregar o arquivo, você irá precisar descompactá-lo em uma pasta chamada "htdocs" e para localiza-lá, deverá procurar pelo diretório no qual instalou a aplicação XAMPP e buscar pela pasta "xampp" e em seguida buscar pela "htdocs".
 
