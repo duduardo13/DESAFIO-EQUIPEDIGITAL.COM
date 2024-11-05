@@ -24,9 +24,9 @@ Após descarregar o arquivo, você irá precisar descompactá-lo em uma pasta ch
 
 Abra o XAMPP e clique botão "Start" nas opções APACHE e MYSQL, depois em seu navegador de preferência digite na url "localhost/phpmyadmin" e siga os seguintes passos:
 
-- Procure pela opção "novo" no menu lateral esquerdo
-- No campo escrito "Nome do banco de dados" escreva "2030todaywp" e clique em Criar
-- Selecione no menu lateral o banco de dados que criou e no menu superior busque pela opção "Importar" e selecione
+- Procure pela opção "novo" no menu lateral esquerdo;
+- No campo escrito "Nome do banco de dados" escreva "2030todaywp" e clique em Criar;
+- Selecione no menu lateral o banco de dados que criou e no menu superior busque pela opção "Importar" e selecione;
 - Busque pela opção de selecionar ficheiro, selecione o arquivo 127_0_0_1.sql disponibilizado e clique em importar.
 
 
