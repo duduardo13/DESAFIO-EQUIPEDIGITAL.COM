@@ -20,7 +20,7 @@ OBS: A instalação do XAMPP se estende até os 5:30min de vídeo, após finaliz
 
 Após instalar o XAMPP, iremos baixar os arquivos do site nesse link (baixe os arquivos 2030today.zip e 127_0_0_1.sql):  https://drive.google.com/file/d/1CZeMhDkZyvcDVowHp_jZDUxO_Lnh4wHo/view?usp=drive_link
 
-Após descarregar os arquivos, você irá precisar descompactar o arquio 2030today.zip em uma pasta chamada "htdocs" e para localiza-lá, deverá procurar pelo diretório no qual instalou a aplicação XAMPP e buscar pela pasta "xampp" e em seguida buscar pela "htdocs".
+Após descarregar os arquivos, você irá precisar descompactar o arquio 2030today.zip em uma pasta chamada "htdocs" e para localiza-la, deverá procurar pelo diretório no qual instalou a aplicação XAMPP e buscar pela pasta "xampp" e em seguida buscar pela "htdocs".
 
 Abra o XAMPP e clique botão "Start" nas opções APACHE e MYSQL, depois em seu navegador de preferência, digite na url "localhost/phpmyadmin" e siga os seguintes passos:
 
