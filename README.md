@@ -1,12 +1,12 @@
 # DESAFIO-EQUIPEDIGITAL.COM
 
-##Introdução.
+## Introdução.
 
 Olá, esse é o projeto no qual fui desafiado pela EquipeDigital.com
 
 Consiste basicamente em realizar uma cópia do site https://2030today.com.br/ utilizando Wordpress. Aqui ensinarei como montar o setup para que o projeto possa funcionar em sua máquina:
 
-##Instalando o projeto.
+## Instalando o projeto.
 
 Primeiramente iremos baixar o servidor que irá permitir que o site funcione, para isso estarei anexando abaixo o link de download da aplicação + link de um video explicativo para auxiliar na instalação (siga fielmente os passos do vídeo para não encontrar dificuldades na instalação):
 
@@ -23,7 +23,7 @@ Após instalar o XAMPP, iremos baixar os arquivos do site nesse link:  https://d
 Após descarregar o arquivo, você irá precisar descompactá-lo em uma pasta chamada "htdocs" e para localiza-lá, deverá procurar pelo diretório no qual instalou a aplicação XAMPP e buscar pela pasta "xampp" e em seguida buscar pela "htdocs".
 
 
-##Executando o projeto.
+## Executando o projeto.
 
 Para acessar o site, primeiramente você deverá executar o XAMPP e clicar no botão "Start" nas opções APACHE e MYSQL.
 
