@@ -17,4 +17,4 @@ Aqui está o link para download dos arquivos: https://drive.google.com/file/d/1C
 
 Após descarregar o arquivo, você deverá localizar a pasta "xampp", em seguida localizar pasta "htdocs" e dentro dela decompacte o arquivo 2030today.zip
 
-![Captura de tela 2024-03-29 130606](https://github.com/user-attachments/assets/a2ee5c9a-fb17-46b2-8677-1bab54af03d3)
+
