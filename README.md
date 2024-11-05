@@ -31,8 +31,8 @@ Para acessar o site, primeiramente você deverá executar o XAMPP e clicar no bo
 Se tudo ocorreu bem ao abrir o navegador de sua preferência, digite na url:
 
 
-### Para visualizar o projeto: localhost/2030today
+- Para visualizar o projeto: localhost/2030today
 
-### Para acessar o painel que permite realizar modificaçãoes do projeto (Usuário: eduardo, Senha: 123456): localhost/2030today/wp-admin/
+- Para acessar o painel que permite realizar modificaçãoes do projeto (Usuário: eduardo, Senha: 123456): localhost/2030today/wp-admin/
 
-### Para acessar o banco de dados: localhost/phpmyadmin
+- Para acessar o banco de dados: localhost/phpmyadmin
